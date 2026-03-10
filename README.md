@@ -1,8 +1,3 @@
-# AI Exploration 2024
-
-GoTo [wiki](https://gitlab.tele.agh.edu.pl/kwant/AI_Exploration_2024/-/wikis/home)
-
-
 # No-Keyboard Interface (AI UI Generator)
 
 Aplikacja sterowana głosem i mazakiem do generowania interfejsów w React, wykorzystująca modele Google Gemini.
