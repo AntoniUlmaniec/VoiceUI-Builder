@@ -1,30 +1,30 @@
 # No-Keyboard Interface (AI UI Generator)
 
-Aplikacja sterowana głosem i mazakiem do generowania interfejsów w React, wykorzystująca modele Google Gemini.
+A voice and sketch-controlled application for generating React interfaces, utilizing Google Gemini models.
 
-## Konfiguracja wstępna
+## Initial Setup
 
-**Klucz API**
-W głównym katalogu projektu musi znajdować się plik `.env`. Wklej do niego swój klucz API Gemini:
+**API Key**
+An `.env` file must be placed in the root directory of the project. Paste your Gemini API key into it:
 ```env
-API_KEY=[Tutaj twój klucz]
+API_KEY=[Your key here]
 ```
 
-## Instrukcja uruchomienia
+## Run Instructions
 
-Aby uruchomić aplikację, wykonaj kolejno następujące kroki w terminalu:
+To run the application, execute the following steps in your terminal:
 
-1. **Instalacja zależności**
+1. **Install dependencies**
    ```bash
    npm install
    ```
 
-2. **Uruchomienie generatora**
+2. **Run the generator**
    ```bash
    node generator.js
    ```
 
-3. **Start aplikacji**
+3. **Start the application**
    ```bash
    cd src && npm start
    ```
